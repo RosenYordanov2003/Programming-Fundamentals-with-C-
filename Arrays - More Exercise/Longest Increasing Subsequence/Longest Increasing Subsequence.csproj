@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Basic_Syntax__Conditional_Statements_and_Loops___Lab</RootNamespace>
+    <RootNamespace>Longest_Increasing_Subsequence</RootNamespace>
   </PropertyGroup>
 
 </Project>
